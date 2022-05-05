@@ -2,9 +2,4 @@
 
 ## AUEB
 ## Athens University
-Coding Factory first test project \
-hello
-
-**hello World**
-!!!!
-
+**Hello World**
