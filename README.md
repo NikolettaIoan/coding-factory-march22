@@ -1,6 +1,6 @@
 # coding-factory-march22
 
-##AUEB
+## AUEB
 ## Athens University
 Coding Factory first test project
 hello
